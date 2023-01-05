@@ -5,8 +5,8 @@ The HR info you would live to get during your work at the EU
 # License
 
 |Permissions	| Conditions |	Limitations |
-----
- Commercial use
+|-- | -- | -- |
+| Commercial use
  Distribution
  Modification
  Patent use
