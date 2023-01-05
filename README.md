@@ -6,6 +6,4 @@ The HR info you would live to get during your work at the EU
 
 | Permissions	| Conditions |	Limitations |
 | ----------- | ---------- | ----------- |
-| Commercial use \\ Distribution \\ Modification \\ Patent use \\ Private use |
-| Disclose source \\ License and copyright notice \\ Same license \\ State changes |
-| Liability \\ Warranty |
+| Commercial use \\ Distribution \\ Modification \\ Patent use \\ Private use | Disclose source \\ License and copyright notice \\ Same license \\ State changes | Liability \\ Warranty |
