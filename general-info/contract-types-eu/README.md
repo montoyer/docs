@@ -48,3 +48,17 @@ For the second category, we will focus on the external service providers, like I
 > As an IT consultant, you are considered as an external staff. You continue to work under the responsibility of your employer, or as a freelancer, and pay your taxes according to your professional and personal situation, usually in your country of tax residency.
 
 IT consultants, in a Time and Means contract, can't bill the Commission directly, even as a freelance or company owner. They have to work through approved companies that keep a fee on the daily rate.
+
+
+
+### Differences between Permanent staff and external Consultants.
+
+| Permanent Staff                                                             | IT External Consultants                                                                     |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Employed directly by the Commission                                         | Employed by a company or are freelancers                                                    |
+| Have a permanent contract with the Commission                               | Have a temporary contract with the Commission, typically through a consortium               |
+| Receive a salary and benefits from the Commission                           | Receive a fee for their services from the company or consortium                             |
+| Can work on a wide range of tasks within the Commission                     | Usually work on specific projects or tasks for a limited duration                           |
+| Have access to training and development opportunities within the Commission | Do not have access to the same training and development opportunities as permanent staff    |
+| Can advance their career within the Commission                              | Typically do not have any hierarchical links and can stay in the same position for decades. |
+

@@ -2,8 +2,6 @@
 
 ## Our Vision
 
-{% hint style="info" %}
-**Good to know:** a good vision statement shows the long-term goals of the company without getting too deep into strategy, implementation, or product specifics.
-{% endhint %}
+We know onboarding at the EU sucks, especially for non-statutory staff. And that's fair enough.
 
-Our company vision is to **be the authoritative reference point for environmentally conscious buyers** and to **encourage more sustainable business practices** through curating beautiful, practical, consciously-produced products.
+Let's build the FAQ of everyone's dreams together, since it seems that no one else is doing it.
