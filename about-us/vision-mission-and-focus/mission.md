@@ -2,8 +2,4 @@
 
 ## Our Mission
 
-{% hint style="info" %}
-**GitBook tip:** a good mission statement tells people **why** you exist and what your impact on the world can be.
-{% endhint %}
-
-Our company mission is to…
+Our company mission is to ensure that all people working for and around the EU Institutions get access to the support and documentation they deserve.

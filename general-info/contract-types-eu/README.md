@@ -4,14 +4,15 @@ description: >-
   different type of contracts.
 ---
 
-# Contract types @ EU
+# 🇪🇺 Contract types @ EU
 
 There are several types of working relationships within the European Institutions. We divide them into 2 main categories :&#x20;
 
 1. People paid directly by the EU institutions as their employer :&#x20;
    * permanent staff or temporary staff, who adheres to the Staff Regulation or a similar legal text. This is similar to civil servants in the member states. Their function group is AD (Administrator), AST (Assitant), AST/SC (Assistant/Secretary Cleck)
    * who signed a contract with the EU Institutions. This is similar to contracts signed in the private sector. Their function group is FGI, FGII, GFIII, and FGIV.
-   * Trainees, like BVlue book Trainees, who are joining the Institutions for few months.
+   * Trainees, like Blue book Trainees, who are joining the Institutions for few months.
+   * Seconded national expert (SNE), who worked directly for the European Institutions after being sent by a member state where they were civil servants.
 2. People not being paid by the EU Institutions, thus not being considered as EU staff. Their are getting paid by their employer or through a company that has a service contract with the Institutions :&#x20;
    * Interim staff
    * IT Consultants, intra- or extra-muros.
@@ -61,4 +62,10 @@ IT consultants, in a Time and Means contract, can't bill the Commission directly
 | Can work on a wide range of tasks within the Commission                     | Usually work on specific projects or tasks for a limited duration                           |
 | Have access to training and development opportunities within the Commission | Do not have access to the same training and development opportunities as permanent staff    |
 | Can advance their career within the Commission                              | Typically do not have any hierarchical links and can stay in the same position for decades. |
+| Get screened and selected through EPSO office                               | Get hunted by private companies                                                             |
 
+### External Links
+
+Types of contracts for permanent staff: [https://europa.eu/!w39WkV ](https://europa.eu/!w39WkV)
+
+Application used by private companies to submit non-permanent staff profiles in framework contract [DIGIT TM II](../../framework-contracts/digit-tm-ii/) : [https://ec.europa.eu/newsroom/ecfin/newsletter-archives/39728](https://ec.europa.eu/newsroom/ecfin/newsletter-archives/39728)

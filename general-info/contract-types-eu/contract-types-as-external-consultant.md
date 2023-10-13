@@ -1,8 +1,10 @@
 ---
+cover: >-
+  https://images.unsplash.com/photo-1606212196377-8a39f83f92b5?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw2fHxzY2h1bWFufGVufDB8fHx8MTY3MzAxOTI5Mg&ixlib=rb-4.0.3&q=80
 coverY: 0
 ---
 
-# Contract types as external consultant
+# 🤓 Contract types as external consultant
 
 When working as an IT consultant, there are 2 main ways to deliver services to the EU institutions :&#x20;
 
