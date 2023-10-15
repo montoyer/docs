@@ -26,6 +26,7 @@
     * [DIGIT TM II Profiles per lots](framework-contracts/digit-tm-ii/digit-tm-ii-profiles-per-lots.md)
     * [DIGIT TM II Scorecards](framework-contracts/digit-tm-ii/digit-tm-ii-scorecards.md)
     * [DIGIT TM II Cascade mechanism](framework-contracts/digit-tm-ii/digit-tm-ii-cascade-mechanism.md)
+    * [DIGIT TM II selection process](framework-contracts/digit-tm-ii/digit-tm-ii-selection-process.md)
     * [DIGIT TM II working times](framework-contracts/digit-tm-ii/digit-tm-ii-working-times.md)
     * [DIGIT TM II Profiles description](framework-contracts/digit-tm-ii/digit-tm-ii-profiles-description/README.md)
       * [1. Database Developer](framework-contracts/digit-tm-ii/digit-tm-ii-profiles-description/1.-database-developer.md)
