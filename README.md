@@ -15,6 +15,8 @@ For **aspiring IT consultants**, this space will be helpful during the selection
 
 For **long-time IT consultants**, this space will act as a reminder and allow you to find answers about contracts, admin and policies, etc.
 
+<figure><img src=".gitbook/assets/_53eebe01-ff9e-477e-ac45-653c165d98f4.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
 <details>
 
 <summary>How to use it?</summary>
