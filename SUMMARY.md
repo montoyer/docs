@@ -84,6 +84,7 @@
 ## How To
 
 * [How To work as a IT Consultant in Belgium?](how-to/how-to-work-as-a-it-consultant-in-belgium.md)
+* [How to apply as an IT consultant for the EU?](how-to/how-to-apply-as-an-it-consultant-for-the-eu.md)
 
 ## Collaborating
 
