@@ -89,3 +89,7 @@
 ## Collaborating
 
 * [🤝 How we Work Together](collaborating/how-we-work-together.md)
+
+## Competitions
+
+* [COM/AD5/2023](competitions/com-ad5-2023.md)
