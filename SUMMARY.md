@@ -13,6 +13,7 @@
 ## General info
 
 * [🇪🇺 Contract types @ EU](general-info/contract-types-eu/README.md)
+  * [📄 Civil servant contract types](general-info/contract-types-eu/civil-servant-contract-types.md)
   * [🤓 Contract types as external consultant](general-info/contract-types-eu/contract-types-as-external-consultant.md)
   * [❓ How much do EU officials earn?](general-info/contract-types-eu/how-much-do-eu-officials-earn.md)
   * [🪜 EQF levels](general-info/contract-types-eu/eqf-levels.md)
