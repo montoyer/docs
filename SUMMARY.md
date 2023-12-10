@@ -94,4 +94,6 @@
 ## Competitions
 
 * [COM/AD5/2023](competitions/com-ad5-2023.md)
-* [THE EU KNOWLEDGE TEST](competitions/the-eu-knowledge-test.md)
+* [EU KNOWLEDGE TEST](competitions/eu-knowledge-test/README.md)
+  * [Ordinary legislative procedure](competitions/eu-knowledge-test/ordinary-legislative-procedure.md)
+  * [EU Institutions](competitions/eu-knowledge-test/eu-institutions.md)
