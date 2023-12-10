@@ -95,8 +95,9 @@
 
 * [COM/AD5/2023](competitions/com-ad5-2023.md)
 * [EU KNOWLEDGE TEST](competitions/eu-knowledge-test/README.md)
+  * [EU Institutions](competitions/eu-knowledge-test/eu-institutions.md)
   * [Ordinary legislative procedure](competitions/eu-knowledge-test/ordinary-legislative-procedure.md)
   * [Special Legislative Procedure](competitions/eu-knowledge-test/special-legislative-procedure.md)
-  * [EU’s budgetary procedure](competitions/eu-knowledge-test/eus-budgetary-procedure.md)
   * [Legal Acts](competitions/eu-knowledge-test/legal-acts.md)
-  * [EU Institutions](competitions/eu-knowledge-test/eu-institutions.md)
+  * [EU’s budgetary procedure](competitions/eu-knowledge-test/eus-budgetary-procedure.md)
+  * [Internal decision-making procedure](competitions/eu-knowledge-test/internal-decision-making-procedure.md)
