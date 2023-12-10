@@ -94,3 +94,4 @@
 ## Competitions
 
 * [COM/AD5/2023](competitions/com-ad5-2023.md)
+* [THE EU KNOWLEDGE TEST](competitions/the-eu-knowledge-test.md)
