@@ -174,3 +174,52 @@ It is advisable for candidates to familiarize themselves with EU terminology in 
   * An independent EU authority that protects the stability of the EU's financial system.
 * **Translation Centre for the Bodies of the European Union (CdT):**
   * Provides translation services for EU agencies and bodies and collaborates with the EU’s other translation services.
+
+
+
+### Executive agencies
+
+* **European Climate, Infrastructure and Environment Executive Agency (CINEA):**
+  * Manages European Commission programs contributing to decarbonization and sustainable growth.
+* **European Education and Culture Executive Agency (EACEA):**
+  * Manages funding for education, culture, audiovisual, sport, citizenship, and volunteering.
+* **European Health and Digital Executive Agency (HADEA):**
+  * Addresses the European Commission’s ambition to rebuild a post-COVID-19 Europe, making it greener, more digital, resilient, and better fit for challenges.
+* **European Innovation Council and Small and Medium-sized Enterprises Executive Agency (EISMEA):**
+  * Focuses on innovation, aiming to take ideas from Europe to global markets.
+* **European Research Council Executive Agency (ERCEA):**
+  * Manages EU programs on research.
+* **European Research Executive Agency (REA):**
+  * A funding body for research and innovation, managing EU research grants.
+
+### Euratom Agencies and Bodies
+
+* **Euratom Supply Agency:**
+  * Ensures a regular and equitable supply of nuclear fuels to EU users.
+  * Enhances the security of supply to users in the European Union.
+* **Fusion for Energy Joint Undertaking:**
+  * Manages the EU’s contribution to the ITER project.
+  * Designed to demonstrate the scientific and technological feasibility of fusion power.
+  * Cooperates with Japan on fusion research and development projects.
+
+## Agencies for common foreign and security policy
+
+* **European Defence Agency:**
+  * Supports the development of defence capabilities and military cooperation between EU countries.
+  * Stimulates defence research and technology.
+  * Strengthens the European defence industry.
+  * Acts as a military interface on EU policies.
+* **European Union Institute for Security Studies:**
+  * Analyzes foreign, security, and defence policy issues.
+  * Provides analysis.
+  * Organizes discussion forums to help formulate EU policy.
+  * Contributes to debates on security strategy in and outside Europe.
+* **European Union Satellite Centre:**
+  * Provides geospatial intelligence products and services.
+  * Analyzes data from Earth observation satellites.
+  * Offers decision-makers early warnings of potential crises for timely diplomatic, economic, and humanitarian measures.
+
+{% file src="../.gitbook/assets/EU12lessons.pdf" %}
+summary of all you should know about EU
+{% endfile %}
+
