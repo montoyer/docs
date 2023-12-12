@@ -77,7 +77,7 @@
       * [11. Operating System Deployment and update specialist](framework-contracts/digit-tm-ii/digit-tm-ii-profiles-description/11.-operating-system-deployment-and-update-specialist.md)
       * [12. Expert in Business Intelligence](framework-contracts/digit-tm-ii/digit-tm-ii-profiles-description/12.-expert-in-business-intelligence.md)
       * [13. Expert in AI /NLP/ ML](framework-contracts/digit-tm-ii/digit-tm-ii-profiles-description/13.-expert-in-ai-nlp-ml.md)
-      * [14. Secure data and document exchange expertx](framework-contracts/digit-tm-ii/digit-tm-ii-profiles-description/14.-secure-data-and-document-exchange-expertx.md)
+      * [14. Secure data and document exchange expert](framework-contracts/digit-tm-ii/digit-tm-ii-profiles-description/14.-secure-data-and-document-exchange-expert.md)
       * [15. Augmented / Virtual Reality Expert](framework-contracts/digit-tm-ii/digit-tm-ii-profiles-description/15.-augmented-virtual-reality-expert.md)
       * [16. IT Expert Profile](framework-contracts/digit-tm-ii/digit-tm-ii-profiles-description/16.-it-expert-profile.md)
   * [DIGIT SM](framework-contracts/digit-sm.md)
