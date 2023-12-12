@@ -101,4 +101,4 @@
   * [Legal Acts](competitions/eu-knowledge-test/legal-acts.md)
   * [EU’s budgetary procedure](competitions/eu-knowledge-test/eus-budgetary-procedure.md)
   * [Internal decision-making procedure](competitions/eu-knowledge-test/internal-decision-making-procedure.md)
-  * [EU WRITTEN TEST](competitions/eu-knowledge-test/eu-written-test.md)
+* [EU WRITTEN TEST](competitions/eu-written-test.md)
