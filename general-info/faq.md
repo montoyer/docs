@@ -4,7 +4,7 @@ description: >-
   ask a career  advisor.
 ---
 
-# FAQ
+# 🙋 FAQ
 
 #### What are the main requirements for working at the European Commission, European Parliament, or European Council in Belgium or Luxembourg as an IT consultant?
 
