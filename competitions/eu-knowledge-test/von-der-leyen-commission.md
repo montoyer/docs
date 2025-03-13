@@ -89,5 +89,3 @@
 * Strengthened EU health competencies
 * Geopolitical Commission concept development
 * Enhanced EU fiscal capacity through NextGenerationEU
-
-Would you like me to provide more specific details about any particular aspect of the von der Leyen Commission?

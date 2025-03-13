@@ -103,4 +103,5 @@
   * [EU’s budgetary procedure](competitions/eu-knowledge-test/eus-budgetary-procedure.md)
   * [Internal decision-making procedure](competitions/eu-knowledge-test/internal-decision-making-procedure.md)
   * [Von der Leyen Commission](competitions/eu-knowledge-test/von-der-leyen-commission.md)
+  * [EU Knowledge Test Preparation Notes](competitions/eu-knowledge-test/eu-knowledge-test-preparation-notes.md)
 * [EU WRITTEN TEST](competitions/eu-written-test.md)
