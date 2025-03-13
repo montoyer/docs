@@ -59,3 +59,47 @@ The Ordinary Legislative Procedure ensures that decisions are made jointly by th
   * Came into force in April 2016, replacing the earlier 2003 Agreement.
   * Outlines a series of initiatives and procedures agreed upon by the Parliament, Council, and Commission to pursue better law-making.
   * Addresses programming, better law-making tools (including impact assessments and public and stakeholder consultation), choice of legal basis, delegated and implementing acts, transparency, implementation, and simplification.
+
+```mermaid
+flowchart TD
+    A[European Commission Proposes legislation] --> B[First Reading - Parliament]
+    A --> C[First Reading - Council]
+    
+    B --> D{Agreement?}
+    C --> D
+    
+    D -->|Yes| E[Act Adopted]
+    D -->|No| F[Parliament's First Reading Position]
+    
+    F --> G[Council Second Reading]
+    
+    G -->|Council approves all Parliament amendments| E
+    G -->|Council rejects/amends Parliament position| H[Council Second Reading Position]
+    
+    H --> I[Parliament Second Reading]
+    
+    I -->|Parliament approves Council position or takes no decision| E
+    I -->|Parliament rejects Council position by absolute majority| J[Act Rejected]
+    I -->|Parliament proposes amendments by absolute majority| K[Parliament Second Reading Amendments]
+    
+    K --> L[Commission Opinion on Parliament amendments]
+    
+    L --> M[Council Second Reading Response]
+    
+    M -->|Council approves all amendments| E
+    M -->|Council does not approve all amendments| N[Conciliation Committee\nConvened]
+    
+    N -->|Agreement reached on joint text| O[Joint Text]
+    N -->|No agreement within 6 weeks| J
+    
+    O --> P[Third Reading - Parliament and Council 6 weeks to approve joint text]
+    
+    P -->|Both approve| E
+    P -->|Either rejects| J
+
+    style A fill:#f9d5e5,stroke:#333,stroke-width:1px
+    style E fill:#b5ead7,stroke:#333,stroke-width:1px
+    style J fill:#ff9aa2,stroke:#333,stroke-width:1px
+    style N fill:#c7ceea,stroke:#333,stroke-width:1px
+```
+
