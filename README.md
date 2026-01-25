@@ -1,11 +1,12 @@
 ---
 description: Montoyer.com is the doc that you missed at the EU Institutions
+icon: hands-clapping
 cover: >-
   https://images.unsplash.com/photo-1608817576152-26bbdb00afb7?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw0fHxFVSUyMGNvbW1pc3Npb258ZW58MHx8fHwxNjcyOTMwNDcy&ixlib=rb-4.0.3&q=80
 coverY: 0
 ---
 
-# 👋 Welcome!
+# Welcome!
 
 {% hint style="info" %}
 **Disclaimer about this documentation:** The info published here is unofficial documentation collected from the knowledge of former IT consultants working for the Commission, the Council, the Parliament and other EU Institutions. In no way we can be seen as accountable for the quality of the content.
