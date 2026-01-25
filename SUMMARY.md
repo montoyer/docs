@@ -12,6 +12,7 @@
 
 ## General info
 
+* [Hello Brussels](general-info/hello-brussels.md)
 * [🇪🇺 Contract types @ EU](general-info/contract-types-eu/README.md)
   * [📄 Civil servant contract types](general-info/contract-types-eu/civil-servant-contract-types.md)
   * [🤓 Contract types as external consultant](general-info/contract-types-eu/contract-types-as-external-consultant.md)
