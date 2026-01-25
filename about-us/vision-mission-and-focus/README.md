@@ -1,4 +1,8 @@
-# 🚀 Vision, Mission & Focus
+---
+icon: rocket-launch
+---
+
+# Vision, Mission & Focus
 
 
 
