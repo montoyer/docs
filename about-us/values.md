@@ -1,4 +1,8 @@
-# 💖 Values
+---
+icon: message-heart
+---
+
+# Values
 
 ## Our Values
 
