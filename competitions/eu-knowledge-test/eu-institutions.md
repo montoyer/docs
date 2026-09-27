@@ -2,7 +2,7 @@
 description: Description of each EU institution, EU body, EU agency.
 ---
 
-# THE EU KNOWLEDGE TEST
+# EU Institutions
 
 The application of EU knowledge testing is expected to be included in competitions like the AD5 generalist competition in 2024. The test format consists of multiple-choice questions (MCQs) that focus on substantive topics such as treaty base, legislative procedures, institutional competencies, and key policies. The questions are based on universally accessible sources of information, and candidates will be informed about the specific sources used.&#x20;
 
@@ -219,7 +219,7 @@ It is advisable for candidates to familiarize themselves with EU terminology in 
   * Analyzes data from Earth observation satellites.
   * Offers decision-makers early warnings of potential crises for timely diplomatic, economic, and humanitarian measures.
 
-{% file src="../.gitbook/assets/EU12lessons.pdf" %}
+{% file src="../../.gitbook/assets/EU12lessons.pdf" %}
 summary of all you should know about EU
 {% endfile %}
 

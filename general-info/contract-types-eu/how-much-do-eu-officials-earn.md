@@ -58,4 +58,4 @@ Below are a raw estimation of the brut amount for each grade and steps for 2022.
 | AST 3          | 4 372,84  | 4 535,39  |           |           |           |
 
 \
-\
+<br>
