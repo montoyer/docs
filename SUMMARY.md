@@ -106,3 +106,4 @@
   * [Von der Leyen Commission](competitions/eu-knowledge-test/von-der-leyen-commission.md)
   * [EU Knowledge Test Preparation Notes](competitions/eu-knowledge-test/eu-knowledge-test-preparation-notes.md)
 * [EU WRITTEN TEST](competitions/eu-written-test.md)
+* [EPSO/AD/428/26](competitions/epso-ad-428-26.md)
